@@ -1,6 +1,6 @@
 ## Karl Broman&rsquo;s website
 
-See [https://abremirata21.wixsite.com/website](https://abremirata21.wixsite.com/website).
+See [abremirata21.wixsite.com/website](abremirata21.wixsite.com/website).
 
 ---
 
