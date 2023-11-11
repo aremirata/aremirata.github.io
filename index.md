@@ -1,4 +1,4 @@
-\textbf{Highlights}
+Highlights
 
 - More than nine years of experience in data science starting from ideation and research to product development and product maintenance
 - Vast experience with machine learning (supervised, unsupervised, semi-supervised)
