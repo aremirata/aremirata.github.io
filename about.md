@@ -26,6 +26,8 @@ University of the Philippines Los Baños.
 
 Alger started working as a data science researcher in Savvysherpa in 2013. [Savvysherpa](https://www.linkedin.com/company/savvysherpa-inc/) is a research-based company that combines healthcare economics and data science to produce valuable healthcare assets. It has offices in Minnesota, Utah and Cebu, Philippines. In 2018, Savvysherpa was acquired by United Health Group, becoming UHG R&D and then later became part of [Optum Labs](https://www.optumlabs.com/).
 
+Before Savvysherpa was acquired by United Health Group, the company worked with multiple clients across various industries ranging from healthcare, telecommunications and retail.Since UHG is the primary partner of Savvysherpa, most of the projects has been concentrated with healthcare, clinical data and medical claims data. In Savvysherpa, Alger first developed his skills in machine learning under the supervision of the heads of Algorithms Group: Berton Earnshaw and Ben Mabey, now working with [Recursion Pharmaceuticals](https://www.recursion.com/) 
+
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/aremirata_cv.pdf)<br/>
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 [github](https://github.com/aremirata)<br/>
