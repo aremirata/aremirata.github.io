@@ -44,7 +44,6 @@ Alger started working as a data science researcher in Savvysherpa in 2013. [Savv
 
             Email: abremirata21@gmail.com<br/>
             Phone: 65 87099187<br/><br/>
-            </div>
         </div>
 
         <div class="span2">
