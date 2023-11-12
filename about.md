@@ -18,17 +18,13 @@ Below are some highlights of his professional career.
 - Diverse and well-rounded skills in handling various datasets: transactional data, application interaction data, content data, healthcare
 claims data, clinical data, physiological data, wearable signal data, text data, audio data, images, videos, etc.)
 
-Alger received a BS in [mathematics](https://cs.upcebu.edu.ph/academics/mathematics-and-statistics/)
+Alger received a BS in [Mathematics](https://cs.upcebu.edu.ph/academics/mathematics-and-statistics/)
 in 2011 from the
 University of the Philippines Cebu, and a
-MS in [mathematics](https://www.uplbgraduateschool.org/academic-programs/mathematics-math/) in 2018 from the
+MS in [Mathematics](https://www.uplbgraduateschool.org/academic-programs/mathematics-math/) in 2018 from the
 University of the Philippines Los Baños.
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics, particularly the analysis of meiotic recombination and the
-genetics of complex traits in experimental organisms.
-He is an enthusiastic advocate for open science, open software,
-reproducible research, and interactive data visualization.
+Alger started working as a data science researcher in Savvysherpa in 2013. [Savvysherpa] (https://www.linkedin.com/company/savvysherpa-inc/) is a research-based company that combines healthcare economics and data science to produce valuable healthcare assets. It has offices in Minnesota, Utah and Cebu, Philippines. In 2018, Savvysherpa was acquired by United Health Group, becoming UHG R&D and then later became part of [Optum Labs] (https://www.optumlabs.com/).
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
