@@ -24,7 +24,7 @@ University of the Philippines Cebu, and a
 MS in [Mathematics](https://www.uplbgraduateschool.org/academic-programs/mathematics-math/) in 2018 from the
 University of the Philippines Los Baños.
 
-Alger started working as a data science researcher in Savvysherpa in 2013. [Savvysherpa] (https://www.linkedin.com/company/savvysherpa-inc/) is a research-based company that combines healthcare economics and data science to produce valuable healthcare assets. It has offices in Minnesota, Utah and Cebu, Philippines. In 2018, Savvysherpa was acquired by United Health Group, becoming UHG R&D and then later became part of [Optum Labs] (https://www.optumlabs.com/).
+Alger started working as a data science researcher in Savvysherpa in 2013. [Savvysherpa](https://www.linkedin.com/company/savvysherpa-inc/) is a research-based company that combines healthcare economics and data science to produce valuable healthcare assets. It has offices in Minnesota, Utah and Cebu, Philippines. In 2018, Savvysherpa was acquired by United Health Group, becoming UHG R&D and then later became part of [Optum Labs](https://www.optumlabs.com/).
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
