@@ -18,25 +18,11 @@ Below are some highlights of his professional career.
 - Diverse and well-rounded skills in handling various datasets: transactional data, application interaction data, content data, healthcare
 claims data, clinical data, physiological data, wearable signal data, text data, audio data, images, videos, etc.)
 
-
-
-
-
-
-
-Karl received a BS in [mathematics](https://uwm.edu/math)
-in 1991 from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](https://statistics.berkeley.edu) in 1997 from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](https://www.wehi.edu.au/people/terry-speed).
-He was a postdoctoral fellow with James Weber at the
-[Marshfield Clinic Research Foundation](https://www.marshfieldresearch.org),
-1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
-at Johns
-Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
+Alger received a BS in [mathematics](https://cs.upcebu.edu.ph/academics/mathematics-and-statistics/)
+in 2011 from the
+University of the Philippines Cebu, and a
+MS in [mathematics](https://www.uplbgraduateschool.org/academic-programs/mathematics-math/) in 2018 from the
+University of the Philippines Los Baños.
 
 Karl is an applied statistician focusing on problems in genetics and
 genomics, particularly the analysis of meiotic recombination and the
