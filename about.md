@@ -42,9 +42,8 @@ Alger started working as a data science researcher in Savvysherpa in 2013. [Savv
             Bedok North St 3<br/> 
             Singapore 460502<br/><br/>
 
-            <div id="hide_email">
-            Email: abremirata21@gmail.com
-            Phone: 65 87099187
+            Email: abremirata21@gmail.com<br/>
+            Phone: 65 87099187<br/><br/>
             </div>
         </div>
 
