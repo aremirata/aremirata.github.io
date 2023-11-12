@@ -1,15 +1,28 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Alger Remirata is a data scientist/research scientist with specialization in healthcare, biotechnology and fraud analytics. 
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) and [R/qtl2](https://kbroman.org/qtl2) (for
-[R](https://www.r-project.org)).
+Karl Broman is a data scientist/ research scientist 
+with specialization in healthcare, biotechnology and fraud analytics.
+
+Highlights
+
+- More than nine years of experience in data science starting from ideation, research, development, deployment and maintenance
+- Vast experience with machine learning (supervised, unsupervised, semi-supervised)
+- Experience in deep learning (convolutional neural networks, recurrent neural networks, transformer models)
+- Comprehensive experience with various databases (MSSQL/Postgres, MongoDB, Neo4j, DynamoDB/Athena, Big Query, ElasticSearch)
+- Significant experience with big data analytics such as Apache Spark (PySpark, Scala), Hive, Hadoop
+- Substantial experience in Data Visualization, Natural Language Processing, Speech Analytics, Signal Processing, Computer Vision
+- Diverse and well-rounded skills in handling various datasets: transactional data, application interaction data, content data, healthcare
+claims data, clinical data, physiological data, wearable signal data, text data, audio data, images, videos, etc.)
+
+
+
+
+
+
 
 Karl received a BS in [mathematics](https://uwm.edu/math)
 in 1991 from the
