@@ -4,10 +4,10 @@ title: about
 description: Alger Remirata is a data scientist/research scientist with specialization in healthcare, biotechnology and fraud analytics. 
 ---
 
-Karl Broman is a data scientist/ research scientist 
+Alger Remirata is a data scientist/ research scientist 
 with specialization in healthcare, biotechnology and fraud analytics.
 
-Highlights
+Below are some highlights of his professional career.
 
 - More than nine years of experience in data science starting from ideation, research, development, deployment and maintenance
 - Vast experience with machine learning (supervised, unsupervised, semi-supervised)
