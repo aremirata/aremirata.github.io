@@ -8,7 +8,7 @@ keywords: Remirata, QTL, R/qtl, quantitative trait loci, statistics, statistical
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/aremirata_cv.pdf">cv</a></li>
           <li><a href="https://github.com/aremirata">github</a></li>
           <li><a href="https://kbroman.org/blog">blog</a></li>
           <li><a rel="me" href="https:///fosstodon.org/@kbroman">mastodon</a></li>
