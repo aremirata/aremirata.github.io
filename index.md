@@ -11,7 +11,7 @@ keywords: Remirata, QTL, R/qtl, quantitative trait loci, statistics, statistical
           <li><a href="{{ BASE_PATH }}/aremirata_cv.pdf">cv</a></li>
           <li><a href="https://github.com/aremirata">github</a></li>
           <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a rel="me" href="https:///fosstodon.org/@kbroman">mastodon</a></li>
+          <li><a href="https://stackoverflow.com/users/5602198/alger-remirata">stackoverflow</a></li>
       </ul>
   </div>
 </div>
