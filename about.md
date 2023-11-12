@@ -78,9 +78,9 @@ he/him
         </div>
 
         <div class="span2">
-        <a href="../pics/karl_ratml.jpg">
-            <img src="../pics/karl_ratml_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+        <a href="../pics/alger_n.jpeg">
+            <img src="../pics/alger_n.jpeg"
+                  title="Alger Remirata" alt="Alger Remirata"/></a>
         </div>
     </div>
 </div>
