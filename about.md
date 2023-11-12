@@ -37,19 +37,14 @@ Alger started working as a data science researcher in Savvysherpa in 2013. [Savv
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="6743msc.html">6743 Medical Sciences Center</a><br/>
-            1300 University Avenue<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            Alger Remirata<br/>
+            08-56 Blk 502<br/>
+            Bedok North St 3<br/> 
+            Singapore 460502<br/><br/>
 
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: abremirata21@gmail.com
+            Phone: 65 87099187
             </div>
         </div>
 
