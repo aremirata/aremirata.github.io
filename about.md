@@ -18,11 +18,8 @@ Below are some highlights of his professional career.
 - Diverse and well-rounded skills in handling various datasets: transactional data, application interaction data, content data, healthcare
 claims data, clinical data, physiological data, wearable signal data, text data, audio data, images, videos, etc.)
 
-Alger received a BS in [Mathematics](https://cs.upcebu.edu.ph/academics/mathematics-and-statistics/)
-in 2011 from the
-University of the Philippines Cebu, and a
-MS in [Mathematics](https://www.uplbgraduateschool.org/academic-programs/mathematics-math/) in 2018 from the
-University of the Philippines Los Baños.
+Alger earned a BS in [Mathematics](https://cs.upcebu.edu.ph/academics/mathematics-and-statistics/) from the University of the Philippines Cebu in 2011, followed by an
+MS in [Mathematics](https://www.uplbgraduateschool.org/academic-programs/mathematics-math/) from the University of the Philippines Los Baños in 2018.
 
 Alger started working as a data science researcher in Savvysherpa in 2013. [Savvysherpa](https://www.linkedin.com/company/savvysherpa-inc/) is a research-based company that combines healthcare economics and data science to produce valuable healthcare assets. It has offices in Minnesota, Utah and Cebu, Philippines. In 2018, Savvysherpa was acquired by United Health Group, becoming UHG R&D and then later became part of [Optum Labs](https://www.optumlabs.com/).
 
@@ -30,7 +27,10 @@ Before Savvysherpa was acquired by United Health Group, the company worked with 
 
 In Summer 2017, Alger participated in a Math bootcamp program called [Interdisciplinary Mentoring Program in Analysis, Computation, and Theory](https://magazine.byu.edu/article/math-boot-camp/) under the supervision of Dr. Jeffrey C. Humpherys. The training has been sponsored by Savvysherpa to selected employees to further develop skills in scientific computation and data science. 
 
-In November 2019, Alger joined Jewel Paymentech, a financial risk technology company based in Singapore that develops intelligent risk solutions for the banking and electronic payment industry. In Jewel Paymentech, Alger learned to develop AI engines as deployable products with existing customers. His projects involves constructing real time fraud detection system that score each transaction based on its fraud risk within a span of milliseconds.
+In November 2018, Alger joined Jewel Paymentech, a financial risk technology company based in Singapore that develops intelligent risk solutions for the banking and electronic payment industry. In Jewel Paymentech, Alger learned to develop AI engines as deployable products with existing customers. His projects involves constructing real time fraud detection system that score each transaction based on its fraud risk within a span of milliseconds.
+
+By November 2021, Alger joined a biotech startup Neuroglee Therapeutics which provides scalable and evidence-based programs to manage cognitive care that leverages continuous monitoring, aiming for personalized care delivery using patient application developed inhouse, and monitored from a remote multidisciplinary clinical team. In Neuroglee, Alger collaborated with neuroscientists, data engineers and cross-functional teams to design and build recommendation system framework for personalized care delivery. 
+He also design and construct machine learning based speech analytics pipeline to determine presence of cognitive impairment with features computed based on techniques from audio signal analysis, digital signal processing and natural language. Furthermore, he collaborate with neuroscientist to identify, extract, process and analyze digital biomarkers from application interaction data, wearable, audio and text data coming from four main modules: games, learning, wellness and reminiscence.
  
 
 
