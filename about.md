@@ -50,8 +50,8 @@ Joining Neuroglee Therapeutics by November 2021, a biotech startup specializing 
         </div>
 
         <div class="span2">
-        <a href="../pics/alger_n.jpeg">
-            <img src="../pics/alger_n.jpeg"
+        <a href="../pics/alger_photo.jpeg">
+            <img src="../pics/alger_photo.jpeg"
                   title="Alger Remirata" alt="Alger Remirata"/></a>
         </div>
     </div>
