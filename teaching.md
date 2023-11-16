@@ -1,8 +1,12 @@
 ---
 layout: page
-title: teaching
-description: Karl Broman's teaching
+title: work experiences
+description: Alger Remirata work experiences
 ---
+[work experiences ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/aremirata_projects.pdf)<br/>
+
+
+
 
 <div class="navbar">
     <div class="navbar-inner">
