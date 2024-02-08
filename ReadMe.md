@@ -1,6 +1,3 @@
-## Karl Broman&rsquo;s website
-
-See [kbroman.org](https://kbroman.org).
 
 ---
 

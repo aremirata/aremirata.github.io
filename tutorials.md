@@ -1,6 +1,6 @@
 ---
 layout: page
 title: tutorials
-description: Karl Broman's tutorials
+description: Alger Remirata's tutorials
 ---
 

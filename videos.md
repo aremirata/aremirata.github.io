@@ -1,7 +1,7 @@
 ---
 layout: page
 title: videos
-description: Karl Broman's recorded talks
+description: Alger's recorded talks
 ---
 
 ### 2023
