@@ -21,7 +21,7 @@ keywords: Remirata, QTL, R/qtl, quantitative trait loci, statistics, statistical
 <tr>
   <td class="left">
     <a href="publpics/rqtl2_fig1.html">
-        <img src="publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
+        <img src="pics/neuroglee.jpg" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
     </a>
   </td>
   <td class="right">
