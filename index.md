@@ -34,12 +34,12 @@ keywords: Remirata, QTL, R/qtl, quantitative trait loci, statistics, statistical
 <tr>
   <td class="left">
     <a href="publpics/samplemixups_fig7.html">
-        <img src="publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
+        <img src="pics/fraudwall.jpg" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
     </a>
   </td>
   <td class="right">
     <a href="publpics/mbmixups_fig3.html">
-        <img src="publpics/mbmixups_fig3.png" alt="Lobo et al. (2021) Fig 3" title="Lobo et al. (2021) Fig 3"/>
+        <img src="pics/sgh.jpg" alt="Lobo et al. (2021) Fig 3" title="Lobo et al. (2021) Fig 3"/>
     </a>
   </td>
 </tr>
