@@ -5,11 +5,12 @@ description: Alger Remirata is a data scientist/research scientist with speciali
 ---
 
 Alger Remirata is a data scientist/ research scientist 
-with specialization in healthcare, biotechnology and fraud analytics.
+with specialization in healthcare, biotechnology, fraud analytics, neuroscience and radiology.
 
 Below are some highlights of his professional career.
 
 - More than nine years of experience in data science starting from ideation, research, development, deployment and maintenance
+- Extensive experience with projects revolving around neuroscience, biomedical imaging and neuroradiology
 - Vast experience with machine learning (supervised, unsupervised, semi-supervised)
 - Experience in deep learning (convolutional neural networks, recurrent neural networks, transformer models)
 - Comprehensive experience with various databases (MSSQL/Postgres, MongoDB, Neo4j, DynamoDB/Athena, Big Query, ElasticSearch)
@@ -28,6 +29,8 @@ He participated in the Math bootcamp program [Interdisciplinary Mentoring Progra
 Transitioning to Jewel Paymentech in November 2018, a Singapore-based financial risk technology company, Alger focused on developing deployable AI engines for real-time fraud detection systems, scoring transactions for fraud risk within milliseconds.
 
 Joining Neuroglee Therapeutics by November 2021, a biotech startup specializing in cognitive care programs, Alger collaborated with multidisciplinary teams to design recommendation systems for personalized care delivery. He led the design and construction of machine learning-based speech analytics pipelines to identify cognitive impairment and analyze digital biomarkers from various data sources, including applications, wearables, and audio.
+
+In November 2023, Alger became a research associate at Singapore General Hospital, collaborating with the Neuroradiology department on projects focused on biomedical imaging utilizing computer vision techniques.
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/aremirata_cv.pdf)<br/>
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
