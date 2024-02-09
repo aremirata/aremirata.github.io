@@ -26,7 +26,7 @@ keywords: Remirata, QTL, R/qtl, quantitative trait loci, statistics, statistical
   </td>
   <td class="right">
     <a href="publpics/mppdiag_fig4.html">
-        <img src="publpics/mppdiag_fig4.png" alt="Broman et
+        <img src="pics/uhg.jpg" alt="Broman et
         al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
     </a>
   </td>
