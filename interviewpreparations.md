@@ -1,7 +1,7 @@
 ---
 layout: page
-title: travel
-description: Alger Remirata's travels
+title: interview preparations
+description: Alger Remirata's interview preparations
 ---
 
 ---
