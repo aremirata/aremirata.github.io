@@ -44,9 +44,9 @@ In November 2023, Alger became a research associate at Singapore General Hospita
     <div class="row-fluid">
         <div class="span5">
             Alger Remirata<br/>
-            08-56 Blk 502<br/>
-            Bedok North St 3<br/> 
-            Singapore 460502<br/><br/>
+            08-222 Blk 67<br/>
+            Marine Drive <br/> 
+            Singapore 440067<br/><br/>
 
             Email: abremirata21@gmail.com<br/>
             Phone: 65 87099187<br/><br/>
